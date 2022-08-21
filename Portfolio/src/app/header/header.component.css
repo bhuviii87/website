@@ -1,0 +1,13 @@
+header{
+    display: flex;
+    align-items:center;
+    margin-bottom: 20px;
+
+
+}
+button{
+    display: inline-flex;
+    margin: 10px;
+    left: 50px;
+    
+}
